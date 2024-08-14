@@ -12,10 +12,8 @@ chanlenges.
 From the challenge description, we see a couple of keywords, that were new to
 me;
 
-- _the real thing_
 - SHA-256 hash
 - decrypt script
-- legitimate
 
 Upon starting the instance, you'll be able to download a couple of files and a
 folder with a bunch of files with random names.
