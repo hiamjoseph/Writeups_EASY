@@ -36,8 +36,8 @@ securely_
 
 I suggest playing around with the `sha256sum` command if you're on linux or mac.
 
-- > In our case we do have the hash, and just need to check which file in our
-  > "files folder" is the real thing; to do that we can either create a script
-  > to go through all files or do what i did as a beginner:
+In our case we do have the hash, and just need to check which file in our "files
+folder" is the real thing; to do that we can either create a script to go
+through all files or do what i did as a beginner:
 
 RUN `sha256sum *`
