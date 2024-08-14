@@ -5,16 +5,16 @@
 **Source:** [picoCTF_VERIFY](https://play.picoctf.org/practice/challenge/450)  
 **Date Solved:** 2024-08-10
 
-## Description
+## 📁 Description
 
 The goal of the challenge is to use the SHA-256 hashing function to check which
 file is legitimate, hence containing the real flag.
 
-## Solution
+## ✅ Solution
 
 The file to be decrypted is _e018b574_. It contains the flag.
 
-### Approach
+### 🧠 Approach
 
 The _challenge.zip_ contains a _checksum.txt_ file; it contains a SHA-256 hash.
 You can either use the `sha256sum *` in your 'files' folder command to display
@@ -31,7 +31,7 @@ Write a sript to automate the check.
 
 Detail the steps and commands used to exploit the challenge. -->
 
-### Commands
+### 💻 Commands
 
 ```bash
 sha256sum <filename>
@@ -41,12 +41,12 @@ sha256sum <filename>
 ./decrypt.sh files/e018b574
 ```
 
-### Additional tips
+### ✌🏾 Additional tips
 
 If you get a `error at newline` error, use the built-in webshell. Don't try to
 debug the _decrypt.sh_ file.
 
-### The flag (BASE64 encrypted)
+### ⛳️ The flag (BASE64 encrypted)
 
 **PLEASE DON'T COPY PASTE**
 
