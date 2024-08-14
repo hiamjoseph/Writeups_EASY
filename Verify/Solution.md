@@ -45,3 +45,18 @@ RUN
 ```bash
 sha256sum *
 ```
+
+In your "files" folder.
+
+## Next step
+
+After running the command, you'll see a hash for each individual file, match it
+with the one in the `checksum.txt` file.
+
+RUN
+
+```bash
+./decrypt.sh files/<filename>
+```
+
+on the respective file aannnnd **There's your flag !!!**
