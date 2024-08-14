@@ -7,8 +7,9 @@ journey with overall Cybersec concepts.
 
 ## What's pico?
 
-pico, from my understanding is a place where cybersec enthusiasts of all levels
-gather to learn practice and participate in CTF challenges; I currently only use
-it to practice and getting introduced to CTFs and the world of digital securtiy.
+Pico is a platform where cybersecurity enthusiasts of all levels come together
+to learn, practice, and engage in Capture The Flag (CTF) challenges. Currently,
+I use Pico primarily for practicing and familiarizing myself with CTFs and the
+broader field of digital security.
 
 Feel free to message me about anything.

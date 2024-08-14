@@ -1,11 +1,11 @@
 # Verify_FORENSICS
 
-Verify is the first challenge i solved, it is part of the _FORENSICS_
+Verify was the first challenge i solved, it is part of the _FORENSICS_
 chanlenges.
 
-_People keep trying to trick my players with imitation flags. I want to make
+**People keep trying to trick my players with imitation flags. I want to make
 sure they get the real thing! I'm going to provide the SHA-256 hash and a
-decrypt script to help you know that my flags are legitimate._
+decrypt script to help you know that my flags are legitimate.**
 
 From the challenge description, we see a couple of keywords, that were new to
 me;
@@ -40,4 +40,8 @@ In our case we do have the hash, and just need to check which file in our "files
 folder" is the real thing; to do that we can either create a script to go
 through all files or do what i did as a beginner:
 
-RUN `sha256sum *`
+RUN
+
+```bash
+sha256sum *
+```
