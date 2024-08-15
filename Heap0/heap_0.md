@@ -8,35 +8,41 @@
 
 > Are overflows just a stack concern?
 
+Use your C knowledge to solve this challenge.
+
 ## ✅ Solution
 
-Write a 33 byte string to the input.
+Write a 17 byte string to the input. NO SPACES.
 
 ### 🧠 Approach
 
-For this challenge, i don't know if i had to write some C program or a bash
-script.
+The key to solving this challenge is reading the source code.
 
-What I did do was simply guess the right number.
+Upon close inspection of the code, you'll find that `scanf()` in the
+`writet_buffer` function isn't inside any `if` checks, in other words, it's not
+properly validated.
 
-The program will tell you if you need to go higher or lowe, be carefull; you
-only get 10 guesses, which is very sufficent if you know how to use them.
+Our two variables addresses are `0x6000035b0030` and `0x6000035b0040`. The
+difference is `0x10` or 16 in decimal.
 
-<!-- ### Exploits
+This time, choose the second option of writing to the buffer.
 
-Detail the steps and commands used to exploit the challenge. -->
+Input any string that's longer than 16 bytes, and the flag is yours.
 
 ### 💻 Commands
 
-No commands were use in this challenge.
+If you decide to only use the source code, you'll have to compile the program
+yourself.
+
+use `gcc <sourcecode>`
 
 ### ✌🏾 Additional tips
 
-If you run out of guesses, you can restart the challenge, but, the number to
-guess will be different.
+This challenge requires a good understanding of the C language. Dynamic memory
+allocation and pointers.
 
 ### ⛳️ The flag (BASE64 encrypted)
 
 **PLEASE DON'T COPY PASTE**
 
-cGljb0NURntnMDBkX2d1MzU1XzJlOTBkMjlifQ==
+cGljb0NURntteV9maXJzdF9oZWFwX292ZXJmbG93X2MzOTM1YTA4fQ==
