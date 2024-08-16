@@ -18,8 +18,8 @@ For Bob, give him a `Cla%sic_Che%s%steak`
 
 ---
 
-Another solution is to spam `Bac0n_D3luxe`, pasting it 5-6 times will show the
-flag.
+Another solution is to spam `Bac0n_D3luxe` for Patrick, pasting it 5-6 times
+will show the flag.
 
 ### 🧠 Approach
 
