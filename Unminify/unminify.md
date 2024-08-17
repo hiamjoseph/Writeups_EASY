@@ -23,8 +23,11 @@ With your understanding of HTML; navigate to
   <center>
     <div>
       <div>
-        <div> <p class="THE FLAAAAAG"></p></div></div></div></center
-></body>
+        <div> <p class="THE FLAAAAAG"></p> </div>
+      </div>
+    </div>
+  </center>
+</body>
 ```
 
 ### 🧠 Approach
