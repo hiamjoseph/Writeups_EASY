@@ -36,7 +36,8 @@ With the little knowledge of the C language i had, i inspected the code, and saw
 that both the `little_endian` and the `big_endian` were generated in your local
 machine.
 
-All i did was print them out at runtime.
+All i did was print them out at runtime; and that is actually how i learnt that
+i had to do all those conversions.
 
 ### 💻 Commands
 
@@ -49,6 +50,11 @@ gcc flag.c
 ### ✌🏾 Additional tips
 
 Learn C, it'll make your life easier
+
+Running the code in your machine might not work, and you'll get a `no such file`
+even after solving the challenge.
+
+Just use `netcat` to run the challenge on the server.
 
 ### ⛳️ The flag (BASE64 encoded)
 
