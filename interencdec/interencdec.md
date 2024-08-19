@@ -36,7 +36,7 @@ is revealed.
 
 The ceaser cipher may differ for each user, for me it was `-19`
 
-### ⛳️ The flag (BASE64 encrypted)
+### ⛳️ The flag (BASE64 encoded)
 
 **PLEASE DON'T COPY PASTE**
 

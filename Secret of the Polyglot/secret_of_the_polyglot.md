@@ -43,7 +43,7 @@ You'll see that the actual file type is `png`
 
 You can `cat` pdf files (i didn't know that)
 
-### ⛳️ The flag (BASE64 encrypted)
+### ⛳️ The flag (BASE64 encoded)
 
 **PLEASE DON'T COPY PASTE**
 

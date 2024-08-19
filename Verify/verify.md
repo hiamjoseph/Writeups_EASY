@@ -46,7 +46,7 @@ sha256sum <filename>
 If you get a `error at newline` error, use the built-in webshell. Don't try to
 debug the _decrypt.sh_ file.
 
-### ⛳️ The flag (BASE64 encrypted)
+### ⛳️ The flag (BASE64 encoded)
 
 **PLEASE DON'T COPY PASTE**
 

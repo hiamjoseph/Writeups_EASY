@@ -54,7 +54,7 @@ Burp suite can be a little confusing at first, just make sure you download the
 right version; Burp Community edition, it's more than enough for this challenge
 and pretty powerful for other things too.
 
-### ⛳️ The flag (BASE64 encrypted)
+### ⛳️ The flag (BASE64 encoded)
 
 **PLEASE DON'T COPY PASTE**
 

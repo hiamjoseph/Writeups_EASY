@@ -32,7 +32,7 @@ NO COMMANDS WERE RAN.
 
 ### ✌🏾 Additional tips
 
-### ⛳️ The flag (BASE64 encrypted)
+### ⛳️ The flag (BASE64 encoded)
 
 **PLEASE DON'T COPY PASTE**
 

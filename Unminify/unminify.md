@@ -42,7 +42,7 @@ NO COMMANDS WERE USED.
 
 A liitle bit of HTML wouldn't hurt.
 
-### ⛳️ The flag (BASE64 encrypted)
+### ⛳️ The flag (BASE64 encoded)
 
 **PLEASE DON'T COPY PASTE**
 

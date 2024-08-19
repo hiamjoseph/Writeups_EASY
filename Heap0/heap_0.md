@@ -41,7 +41,7 @@ use `gcc <sourcecode>`
 This challenge requires a good understanding of the C language. Dynamic memory
 allocation and pointers.
 
-### ⛳️ The flag (BASE64 encrypted)
+### ⛳️ The flag (BASE64 encoded)
 
 **PLEASE DON'T COPY PASTE**
 
