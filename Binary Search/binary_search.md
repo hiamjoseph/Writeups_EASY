@@ -38,7 +38,7 @@ No commands were use in this challenge.
 If you run out of guesses, you can restart the challenge, but, the number to
 guess will be different.
 
-### ⛳️ The flag (BASE64 encrypted)
+### ⛳️ The flag (BASE64 encoded)
 
 **PLEASE DON'T COPY PASTE**
 
